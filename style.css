@@ -1,0 +1,23 @@
+.text {    
+     border-right: 4px solid blue;
+     border-left: 4px solid blue;
+     padding: 10px;
+     background-color: #76d37b;
+     border-radius: 10px;
+     width: 400px;
+     text-align: left;
+    }
+
+.class li {
+    color: red;
+    display: inline-block;
+    padding: 5px;
+    background-color: gray;
+}    
+
+.class {
+    background-color: gray;
+    width: 250px;
+    padding: 0px;
+
+}
